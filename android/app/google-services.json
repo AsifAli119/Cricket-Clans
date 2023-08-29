@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827146773582",
+    "project_id": "cricket-clans-a4e72",
+    "storage_bucket": "cricket-clans-a4e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827146773582:android:79c864df7176993a2c0f1f",
+        "android_client_info": {
+          "package_name": "com.example.kash_coder_cricket_clans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827146773582-474jq5vep1nj167p73rmaiuk2u1qi8l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kash_coder_cricket_clans",
+            "certificate_hash": "dcb7af13ada6844fac55188321c6ea1ea919cc4e"
+          }
+        },
+        {
+          "client_id": "827146773582-qfg3h7e3s7t2f85uuka019d5klf74ues.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnO5UUPxhtZQWdOyXWF3AF8-5Jk5eLUW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827146773582-qfg3h7e3s7t2f85uuka019d5klf74ues.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
